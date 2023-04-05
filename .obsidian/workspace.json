@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "8d14a4cdd86d36ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "652997ec62cc9432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10964aeda3eef50a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cff2e6396759eade",
+    "type": "split",
+    "children": [
+      {
+        "id": "b72c137b1926a5f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff2d07fbed8f69c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ce419e876dcaf93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a92c8b5cc83cd9c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42379a1f0b147131",
+    "type": "split",
+    "children": [
+      {
+        "id": "963d3156e631fa2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8c8c2f47fa1501b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "754c2ad646a70818",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9691e40b40673c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "264b17e9ce5185a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "10964aeda3eef50a",
+  "lastOpenFiles": [
+    "Go语言学习/01-Go基础与基本语法.md",
+    "Go语言学习/简单介绍一下这篇笔记是怎么来的.md"
+  ]
+}
