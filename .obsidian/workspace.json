@@ -11,8 +11,12 @@
             "id": "10964aeda3eef50a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Go语言学习/01-Go基础与基本语法.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Go语言学习/01-Go基础与基本语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Go语言学习/01-Go基础与基本语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +124,12 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Go语言学习/01-Go基础与基本语法.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,9 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "10964aeda3eef50a",
+  "active": "ff2d07fbed8f69c2",
   "lastOpenFiles": [
-    "Go语言学习/01-Go基础与基本语法.md",
-    "Go语言学习/简单介绍一下这篇笔记是怎么来的.md"
+    "Go语言学习/简单介绍一下这篇笔记是怎么来的.md",
+    "Go语言学习/01-Go基础与基本语法.md"
   ]
 }
