@@ -129,8 +129,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,9 +148,9 @@
   },
   "active": "baa50f7fb4a9483f",
   "lastOpenFiles": [
-    "Go语言学习/01-Go基础与基本语法.md",
     "Go语言学习/简单介绍一下这篇笔记是怎么来的.md",
     "README.md",
+    "Go语言学习/01-Go基础与基本语法.md",
     "笔记思路来自于???.md"
   ]
 }
