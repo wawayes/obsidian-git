@@ -10,5 +10,6 @@
 + 在本人Java语言的浅薄基础上简单学习了Go语言的入门语法，第一步便是先能看懂基本的Go语言。
 + 通过ChatGPT来帮助举出具有代表性的例子， 对于陌生的API直接询问ChatGPT要求详细列举并且给出示例代码与注释，在我看来学习效率是要比看B站视频和学习途去Google一些莫名的Bug快的多（仅从效率上看）
 + 第一篇便是学习了简单的Go语言语法，包括Go语言基础结构，包的概念，程序执行过程，数据类型，数组和切片，map，流程控制，函数，struct和method，interface和反射，Goroutine，channel...均为简单语法示例记录，没有上升难度。
-
+[02-Go常用包](https://github.com/Walk2future/obsidian-git/blob/main/Go%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0/02-Go%E5%B8%B8%E7%94%A8%E5%8C%85.md)
++ 简单了解了Go语言的常用包，包括os,time&date,encoding,strings,regex,sync,net....
 ......

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go语言学习/01-Go基础与基本语法.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42379a1f0b147131",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go语言学习/02-Go常用包.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go语言学习/02-Go常用包.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go语言学习/02-Go常用包.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,10 +159,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "37d32ebba7ab9d1c",
+  "active": "baa50f7fb4a9483f",
   "lastOpenFiles": [
-    "Go语言学习/01-Go基础与基本语法.md",
     "Go语言学习/02-Go常用包.md",
+    "Go语言学习/01-Go基础与基本语法.md",
     "Go语言学习/简单介绍一下这篇笔记是怎么来的.md",
     "README.md",
     "笔记思路来自于???.md"
